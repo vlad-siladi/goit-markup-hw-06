@@ -867,6 +867,7 @@ img {
 .form-input:hover,
 .form-input:focus {
   border: 1px solid var(--accent-text-colour);
+  outline: none;
 }
 
 .icon-form {
@@ -905,6 +906,7 @@ img {
 .form-comment textarea:hover,
 .form-comment textarea:focus {
   border: 1px solid var(--accent-text-colour);
+  outline: none;
 }
 
 .form-comment textarea::placeholder {
